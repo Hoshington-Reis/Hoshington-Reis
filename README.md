@@ -19,5 +19,5 @@
 ##
 
 <div>
-   <a ref="https://www.linkedin.com/in/hoshington-dos-reis-oliveira-64454b64" taget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&LogoColor=White" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    </div>
