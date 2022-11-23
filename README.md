@@ -8,7 +8,7 @@
 <div>
 	<a href="https://github.com/Hoshington-Reis">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoshington-Reis&show_icons=true&theme=dark&include_all_commits=true&count_private+true/">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshington-Reis&layout=compact&langs_count=16&theme=dark"/>
+	
 </div>
 <div style="display: inline_block"><br>
 	<img align="center" alt="Reis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
